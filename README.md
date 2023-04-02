@@ -1,19 +1,19 @@
 ![MasterHead](https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif) 
 
 <h1 align="center">Hi 👋, I'm Nupur Pathak</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">A passionate data scientist.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nupurp22&label=Profile%20views&color=0e75b6&style=flat" alt="nupurp22" /> </p>
 
-- 🔭 I’m currently working on **Continuous learning transformer-based chatbot with AI testability**
+- 🔭 I’m currently working on **Transformer-based Chatbot with Reinforcement Learning and AI Testability, Deepfake Video Detection, Automatic Speech Recognition (ASR), and Text to Speech (TTS)**
 
-- 🌱 I’m currently learning **Generative Adversarial Networks (GAN), Large Language Models (LLMs), Deep Reinforcement Learning**
+- 🌱 I’m currently learning **Generative Adversarial Networks (GAN), Large Language Models (LLMs), and Deep Reinforcement Learning**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural Language Processing (NLP), Data Mining, Data Visualization, Statistics**
+- 💬 Ask me about **Computer Vision, Sentiment Analysis, Recommendation Systems, Anomaly Detection, and Prediction Models**
 
-- 📫 How to reach me **nupur.pathak@sjsu.edu**
+- 📫 How to reach me **nupur.pathak@sjsu.edu / nups.pathak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
