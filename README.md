@@ -44,7 +44,6 @@
 <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/> </a>
 <a href="https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="mapreduce" width="40" height="40"/> </a> 
 <a href="https://www.perforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/perforce/perforce-icon.svg" alt="perforce" width="40" height="40"/> </a>
-
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> 
 <a href="https://https://www.tableau.com//" target="_blank" rel="noreferrer"> <img src="https://github.com/detain/svg-logos/blob/master/svg/tableau-software.svg" alt="powerbi" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a></p>
